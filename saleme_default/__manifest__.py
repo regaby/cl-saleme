@@ -39,7 +39,7 @@
 
     'git-repos': [
         'https://github.com/regaby/cl-saleme.git',
-        'https://github.com/aamaral2020/AlmacenSaleme_241122',
+        'https://github.com/aamaral2020/AlmacenSaleme_241122 -b main',
     ],
 
     # list of images to use in the form 'name image-url'
